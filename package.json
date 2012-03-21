@@ -1,0 +1,11 @@
+{
+  "name": "proxy-socket.io",
+  "description": "A socket.io server which proxies to another service",
+  "version": "0.1.0",
+  "author": "Ryan Schumacher <ryan@38pages.com>",
+  "dependencies": {
+    "JSON": ">= 1.0.0",
+    "socket.io": ">= 0.8.0"
+  },
+  "engine": "node >= 0.4.1"
+}
